@@ -1,0 +1,8 @@
+name: PrisonPlugin
+description: PrisonPlugin!
+main: com.flyingpiggy.PrisonPlugin.PrisonPlugin
+version: 0.1
+author: Flyingpiggy
+commands:
+Fuck:
+description: Enchants with explosive
